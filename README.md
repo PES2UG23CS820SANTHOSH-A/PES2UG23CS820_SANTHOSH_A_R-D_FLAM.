@@ -121,8 +121,8 @@ t\cos(0.826) - e^{0.0742|t|}\sin(0.3t)\sin(0.826) + 11.5793,\;
 
 | Metric | Description | Value |
 |--------|--------------|--------|
-| **L1 Distance (Total)** | Total absolute deviation | 17.82 |
-| **L1 Distance (Average)** | Average deviation per sample | 0.012 |
+| **L1 Distance (Total)** | Total absolute deviation |  5525.465517|
+| **L1 Distance (Average)** | Average deviation per sample | 3.683644 |
 | **Visual Fit** | Data and fitted curve overlap | Excellent |
 
 ## Explanation of Process and Steps Followed
