@@ -1,13 +1,7 @@
 # Assignment for Research and Development / AI  
 **Title:** Estimation of Unknown Parameters in a Parametric Curve Using Numerical Optimization  
 
-## Basic Assignment Rules
 
-### Academic Integrity
-
-- **No Cheating:** All computations, analyses, and implementations were completed independently. No external unauthorized assistance or pre-written solutions were used.  
-- **No Copying or Plagiarism:** The entire codebase and explanation have been written from scratch. No part of the submission has been copied from other students or online resources.  
-- **Proper Citation:** External concepts or algorithms used from publicly available scientific sources or documentation (e.g., NumPy, SciPy) have been referenced appropriately.
 
 ## Problem Statement
 
