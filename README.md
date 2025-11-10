@@ -103,10 +103,12 @@ This project was implemented using the following Python libraries:
 A representative optimization run produced the following results:
 
 ```
-Best Strategy: soft_l1_refine
-Best L1 Distance (Total): 17.82
-Estimated Parameters (θ, M, X, Y0, φ, f, A, a, b, c):
-[0.826, 0.0742, 11.5793, 42.0, 0.0, 0.3, 1.0, 0.0, 1.0, 0.0]
+L1 Distance (Total): 5525.465517
+L1 Distance (Average per sample): 3.683644
+Final Parameters:
+[ 5.58257216e-01 -2.00000000e-02  2.40125348e+01  2.08495056e+01
+  3.14159265e+00  3.63367466e-01  1.09616143e+01  5.00000000e+01
+  1.39055489e+00 -1.00000000e-02]
 ```
 
 ## Final Submission Equation (LaTeX Format)
